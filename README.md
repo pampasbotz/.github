@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="URL_DA_IMAGEM" alt="Logo da PampasBotz" />
+  <img src="images/pampasbotz-logo.jpeg" alt="Logo da PampasBotz" />
 </p>
 
 <p align="center">
