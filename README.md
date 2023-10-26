@@ -63,7 +63,16 @@ Abaixo estão as categorias em que competimos. Clique para conhecer os nossos ro
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/ETomacheski">
+        <img src="https://avatars.githubusercontent.com/u/58445809?v=4" width="100px;" alt="Foto do Tomacheski no GitHub"/><br>
+        <sub>
+          <b>Eduardo Tomacheski</b>
+        </sub>
+      </a>
+    </td>
   </tr>
+  
 </table>
 
 ## Contato
