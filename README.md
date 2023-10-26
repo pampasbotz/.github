@@ -41,11 +41,11 @@ Abaixo estão as categorias em que competimos. Clique para conhecer os nossos ro
       </td>
     </tr>
     <tr>
-        <td><a href="#"><img src="assets/logo.svg" width="2560px"></a></td>
-        <td><a href="#"><img src="assets/logo.svg" width="2560px"></a></td>
-        <td><a href="#"><img src="assets/logo.svg" width="2560px"></a></td>
-        <td><a href="#"><img src="assets/logo.svg" width="2560px"></a></td>
-        <td><a href="#"><img src="assets/logo.svg" width="2560px"></a></td>
+        <td><a href="#"><img src="images/linefoll.png" width="2560px"></a></td>
+        <td><a href="#"><img src="images/tank.png" width="2560px"></a></td>
+        <td><a href="#"><img src="images/linefoll.png" width="2560px"></a></td>
+        <td><a href="#"><img src="images/tank.png" width="2560px"></a></td>
+        <td><a href="#"><img src="images/tank.png" width="2560px"></a></td>
     </tr>
   </tbody>
 </table>
