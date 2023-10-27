@@ -1,1 +1,4 @@
-theme: minima
+include:
+  - assets
+baseurl: /.github  # Adicione o nome do seu repositório aqui, se aplicável.
+

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <p align="center">
   <h1 align="center">PampasBotz</h1>
 </p>
