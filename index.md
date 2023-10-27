@@ -12,12 +12,12 @@
 
 ---
 
-## Sobre Nós
+## Sobre Nós {#sobre-nos}
 
 PampasBotz é uma equipe de robótica situada no IFSUL Campus Charqueadas.
 Densenvolvemos projetos nas principais categorias de robótica móvel para participar das mais diversas competições da área.
 
-## Categorias e robôs
+## Categorias e robôs {#categorias-e-robos}
 
 Abaixo estão as categorias em que competimos. Clique para conhecer os nossos robôs de cada categoria.
 
@@ -51,7 +51,7 @@ Abaixo estão as categorias em que competimos. Clique para conhecer os nossos ro
 </table>
 
 
-## 🤝 Integrantes
+## 🤝 Integrantes {#integrantes}
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ Abaixo estão as categorias em que competimos. Clique para conhecer os nossos ro
   
 </table>
 
-## Contato
+## Contato {#contato}
 ### Clique na logo do Instagram para acessar nossa página
 <p align="center">
   <a href="https://www.instagram.com/scinternacional/">

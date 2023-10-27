@@ -1,0 +1,32 @@
+body {
+    background-color: black; /* Cor de fundo do corpo */
+    color: white; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+.container {
+    background-color: white; /* Cor de fundo da área principal do conteúdo */
+    margin: auto; /* Centraliza o container */
+    padding: 20px; /* Espaçamento interno */
+    width: 80%; /* Largura do container */
+}
+
+/* Estilos da barra de navegação */
+.navbar {
+    overflow: hidden; /* Garante que o conteúdo da barra de navegação esteja contido */
+    background-color: #333; /* Cor de fundo da barra de navegação */
+}
+
+.navbar a {
+    float: left; /* Alinha os links para a esquerda */
+    display: block; /* Os links preenchem toda a área clicável */
+    color: white; /* Cor dos links */
+    text-align: center; /* Centraliza o texto dos links */
+    padding: 14px 20px; /* Espaçamento interno dos links */
+    text-decoration: none; /* Remove o sublinhado dos links */
+}
+
+.navbar a:hover {
+    background-color: #ddd; /* Cor de fundo ao passar o mouse */
+    color: black; /* Cor do texto ao passar o mouse */
+}
